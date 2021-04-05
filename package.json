@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "lite-server",
-    "bundle": "browserify app.js -p esmify > src/bundle.js"
+    "bundle": "browserify app.js -p esmify > docs/bundle.js"
   },
   "dependencies": {
     "browserify": "^17.0.0",
